@@ -32,6 +32,9 @@ HTML                     2 repos             █░░░░░░░░░░�
 
  Last Updated on 22/06/2022 02:06:14 UTC
 <!--END_SECTION:waka-->
+[![Olaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayasturias&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olayasturias&layout=compact&count_private=true&hide=javascript,html,Jupyter%20Notebook,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab&show_icons=true&include_all_commits=false&is_fork=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **olayasturias/olayasturias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
