@@ -20,17 +20,17 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
-Jupyter Notebook         8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81% 
-CMake                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
+Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21% 
+C++                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
+Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+CMake                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 ```
 
 
 
- Last Updated on 22/08/2022 02:06:27 UTC
+ Last Updated on 23/08/2022 02:15:38 UTC
 <!--END_SECTION:waka-->
 [![Olaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayasturias&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
