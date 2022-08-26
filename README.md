@@ -7,9 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 128 Contributions in the Year 2022
+> 🏆 133 Contributions in the Year 2022
  > 
-> 📦 388.6 kB Used in GitHub's Storage 
+> 📦 388.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,17 +20,17 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21% 
-C++                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-CMake                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
+Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   30.0% 
+C++                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CMake                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
 
 
- Last Updated on 25/08/2022 02:15:37 UTC
+ Last Updated on 26/08/2022 02:18:52 UTC
 <!--END_SECTION:waka-->
 [![Olaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayasturias&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
