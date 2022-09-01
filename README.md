@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-922%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 135 Contributions in the Year 2022
+> 🏆 136 Contributions in the Year 2022
  > 
 > 📦 389.6 kB Used in GitHub's Storage 
  > 
@@ -30,7 +30,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2022 02:41:35 UTC
+ Last Updated on 01/09/2022 02:13:25 UTC
 <!--END_SECTION:waka-->
 [![Olaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayasturias&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
