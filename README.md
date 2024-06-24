@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Olaya Álvarez-Tuñón (@oateiva)!
+# 👋 Hi there, I'm Olaya Álvarez-Tuñón!
 
 ## 👩‍🔬 About Me
 I hold a Ph.D. in Robotics and Computer Vision from Aarhus University and currently work as a Postdoctoral Researcher at [EIVA A/S](https://www.eiva.com/) and the [Software Quality Research (SQUARE)](https://pure.itu.dk/da/organisations/software-quality-research-square) group at IT University of Copenhagen (ITU).
